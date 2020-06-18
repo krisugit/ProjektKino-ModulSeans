@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\KinoTestyJednostkowe.dll
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\KinoTestyJednostkowe.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\obj\Debug\KinoTestyJednostkowe.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\obj\Debug\KinoTestyJednostkowe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\obj\Debug\KinoTestyJednostkowe.csproj.CopyComplete
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\obj\Debug\KinoTestyJednostkowe.dll
+C:\Users\user\Desktop\WindowsFormsApp1\KinoTestyJednostkowe\obj\Debug\KinoTestyJednostkowe.pdb

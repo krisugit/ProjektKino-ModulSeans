@@ -1,0 +1,39 @@
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csprojAssemblyReference.cache
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DodajSeans.resources
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaSeansów.resources
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuGłówne.resources
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SzczegółySeansu.resources
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csproj.GenerateResource.cache
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csproj.CoreCompileInputs.cache
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vizar\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DodajSeans.resources
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaSeansów.resources
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuGłówne.resources
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SzczegółySeansu.resources
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\ZAJĘCIA ZDALNE\Testowanie oprogramowania\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DodajSeans.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaSeansów.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuGłówne.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SzczegółySeansu.resources
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Kino_seanse.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
